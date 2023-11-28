@@ -1,1 +1,1 @@
-# https://kevvvs.github.io/singlepage/
+# https://clip.github.io/home/
